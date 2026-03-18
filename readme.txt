@@ -1,4 +1,4 @@
-Random info regarding pyGame:
+pyGame Wiki (wip):
 https://github.com/Meggy-Mode-Alt/pyGame/wiki
 
 Launcher download:
