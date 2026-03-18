@@ -6,6 +6,8 @@ Launcher download:
 https://drive.google.com/file/d/16QgA6Q8N_TpGN5azWYHL7Ri_-QvJWF6E/view?usp=drive_link
 
 
+        ---- UPDATE LOG / DEV LOG ----
+
 
 1.0.0.2:dungeon1
 Added dev command "/dgn" to generate a dungeon
