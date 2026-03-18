@@ -19,4 +19,4 @@ Fixed issue with damage calculation when adding items
 
 
 1.0.0.1
-Added: Inventory system, Commands: /help, /msg (multiplayer only), /item
+Added: Inventory system, Commands: /help, /msg (multiplayer only), /item (admin command)
