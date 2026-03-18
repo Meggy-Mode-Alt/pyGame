@@ -12,4 +12,8 @@ Added: Inventory system, Commands: /help, /msg (multiplayer only), /item
 
 1.0.0.1:bugfix1
 Fixed issue with damage calculation when adding items
+
+
 1.0.0.2:dungeon1
+Added dev command "/dgn" to generate a dungeon
+Added inert chest object -will eventualy be able to be broken / opened with attack
