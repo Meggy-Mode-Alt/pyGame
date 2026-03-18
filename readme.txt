@@ -3,6 +3,7 @@ https://github.com/Meggy-Mode-Alt/pyGame/wiki
 
 Launcher download:
 (its too big to upload to this repo)
+MacOS
 https://drive.google.com/file/d/16QgA6Q8N_TpGN5azWYHL7Ri_-QvJWF6E/view?usp=drive_link
 
 
