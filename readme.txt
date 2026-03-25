@@ -1,3 +1,2 @@
-The server exe is broken, idk how it broke but I was looking at some bugs involving backend development and HOW IN THE WORLD IS DAMAGE SENT TO THE SERVER AND RETURNED TO PLAYERS WHEN THERE IS NO DAMAGE PARSING LOGIC IN THE SERVER FILE?!?!?! plz send help...
 
 https://meggy-mode-alt.github.io/pyGame/
