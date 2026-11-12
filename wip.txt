@@ -10,22 +10,22 @@ UX changes:
     -- Finished -- create procedurally generated dungeons -- Finished --
     --- WIP --- add enemies and loot to dungeons --- WIP ---
     add background texture
-    add dungeon loot boxes perchaseable in village
+    add dungeon loot boxes purchasable in village
     create enemy sprites
     create soft coded bosses
     add multiplayer trading post / shop
 
 Player changes:
     remove shielding and add dashes for dodging
-    add more attacks depending on what weapon is equiped
+    add more attacks depending on what weapon is equipped
     add attackig animations
 
 UI changes:
-    change font to somthing besides arial
+    change font to something besides arial
     refine inventory ui: add item graphics, add a hover mechanic to view statistics
     refine launcher ui: refine buttons, better error visuals, local server viewer
     create a leave server / exit to main menu button
     
 
 Backend changes:
-    --nothing for now--
+    completely reworking the networking and client so the server does all the calculations and holds player states, not the client
